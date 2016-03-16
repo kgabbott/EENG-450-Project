@@ -4,5 +4,5 @@ speech encoding perfromed by telephone communication. In this process, speech is
 is then used to sythesize the speech at the reciever.
 
 The system in this project is able to take in a speech segment, encode it, and play back a sysnthesized version. The encoding proess 
-involves taking a 50ms segment, and using the autocorrelation and spectrum to determine the pith frequency and locate the poles/zeros 
+involves taking a 50ms segment, and using the autocorrelation and spectrum to determine the pitch frequency and locate the poles/zeros 
 for a 6th order ARMA model. This model is then driven by a pitch impulse train (if voiced speech) or random noise (if unvoiced speech). 
