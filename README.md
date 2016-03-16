@@ -1,4 +1,4 @@
-# EENG-450-Project
+# EENG 450 Project
 This is the code for my EENG 450 (Applied Digital Signal Processing Final Project). The purpose of this project is to replicate the 
 speech encoding perfromed by telephone communication. In this process, speech is converted into coeffitients of a linerar model, which
 is then used to sythesize the speech at the reciever.
